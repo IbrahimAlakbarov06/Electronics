@@ -51,8 +51,8 @@ This repository centralizes academic electronics materials, including PDFs, repo
 A practical demonstration video showing the electronics circuit implementation and working principle discussed in the project.
 
 🎬 YouTube Video  
-https://youtu.be/SY8R9_8SwVk
-
+[https://youtu.be/SY8R9_8SwVk
+](https://www.youtube.com/watch?v=izpi8JnfGkk)
 ---
 
 # Description
